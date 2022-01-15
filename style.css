@@ -1,0 +1,18 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.mama{
+    color: orange;
+}
+.name-highlight{
+    color: lightskyblue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
